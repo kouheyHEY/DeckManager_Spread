@@ -1,4 +1,4 @@
-# [デッキマネージャ](https://docs.google.com/spreadsheets/d/e/2PACX-1vT-j--XRbpSrMgvWaG6Jvrj96tnNanU2cM8kTRWqcnsncK8uG8VBstp4F3YbeCDhTu6yW0_Cbejzy2I/pubhtml)
+# [デッキマネージャ](https://docs.google.com/spreadsheets/d/1kKRM2tEOMzX7aLFc6XbuZE4X8z3YCZLd5STBfTy_bWU/edit?usp=sharing)
 
 ### DeckManager
 
